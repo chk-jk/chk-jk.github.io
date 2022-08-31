@@ -105,14 +105,14 @@ analytics:
 # Site Author
 author:
   name             : "chk-jk"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo/KakaoTalk_20220802_225102528.jpg"
   bio              : "개발공부합니다."
   location         : "KR - Goyangsi"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: "hosick3130@gmail.com"
+      url: mailto:hosick3130@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
