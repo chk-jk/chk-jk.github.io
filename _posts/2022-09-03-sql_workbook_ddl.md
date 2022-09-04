@@ -5,7 +5,8 @@ excerpt: "Data Definition Language"
 categories:
   - study
 tags:
-  - SQL, Oracle
+  - SQL
+  - Oracle
 last_modified_at: 2022-09-03T12:00:00-05:00
 ---
 

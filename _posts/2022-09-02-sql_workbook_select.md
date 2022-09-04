@@ -5,7 +5,8 @@ excerpt: "Select문 과제"
 categories:
   - homework, study
 tags:
-  - SQL, ORACLE
+  - SQL
+  - ORACLE
 last_modified_at: 2022-09-02T15:30:00-35:00
 ---
 

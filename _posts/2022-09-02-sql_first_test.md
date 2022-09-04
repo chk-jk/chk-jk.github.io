@@ -5,7 +5,8 @@ excerpt: "기록용"
 categories:
   - test
 tags:
-  - SQL, ORACLE
+  - SQL
+  - ORACLE
 last_modified_at: 2022-09-02T15:30:00-35:00
 ---
 
